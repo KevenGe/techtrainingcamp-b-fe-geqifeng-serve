@@ -8,9 +8,9 @@
 
 本项目使用了koa框架来运行服务。
 
-`static`文件夹内部便是[原项目](https://github.com/KevenGe/bytedance-toutiao/tree/develop)打包生成的文本。
+`static`文件夹内部便是[原项目](https://github.com/KevenGe/techtrainingcamp-b-fe-geqifeng)打包生成的文本。
 
-如果想要查看源代码，请访问[原项目](https://github.com/KevenGe/bytedance-toutiao/tree/develop)。
+如果想要查看源代码，请访问[原项目](https://github.com/KevenGe/techtrainingcamp-b-fe-geqifeng)。
 
 ## 安装以及使用
 
